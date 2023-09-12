@@ -14,4 +14,9 @@
     <li><a href="https://opencep.com/">OpenCEP</a></li>
 </ul>
 
+<p>To use this library, just init Search class from namespace <i>Amazingbits\ZipcodeFinder\UseCase\Search\Search</i> 
+and call the method <i>getAddressFromZipCode()</i> passing a zip code 
+with this format: <b>00000-000</b>. It returns an array with: cep, street,
+district, city and state or false.</p>
+
 <p>Click <a href="https://github.com/amazingbits/zipcode-finder">here</a> to repository.</p>
