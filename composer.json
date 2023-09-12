@@ -1,0 +1,19 @@
+{
+  "name": "amazingbits/zipcode-finder",
+  "description": "A library to find addresses by passing zip-codes",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Guilherme Andrade",
+      "email": "gui-keanne@hotmail.com"
+    }
+  ],
+  "minimum-stability": "stable",
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "Amazingbits\\ZipcodeFinder\\": "src/"
+    }
+  }
+}
